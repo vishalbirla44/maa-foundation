@@ -54,7 +54,7 @@ export default function Contact() {
                   <div className="w-6 h-6">
                     <img src={MailIcon} alt="Email Icon" />
                   </div>
-                  <p className="ml-2 text-lg lg:text-2xl text-zinc-900">
+                  <p className="ml-2 text-2xl font-normal lg:text-2xl text-zinc-900">
                     maafoundataion@gmail.com
                   </p>
                 </div>
@@ -62,7 +62,7 @@ export default function Contact() {
                   <div className="w-6 h-6">
                     <img src={PhoneIcon} alt="Phone Icon" />
                   </div>
-                  <p className="ml-2 text-lg lg:text-2xl text-zinc-900">
+                  <p className="ml-2 text-2xl font-normal lg:text-2xl text-zinc-900">
                     +91 9865327856, +91 9785694325
                   </p>
                 </div>
@@ -70,7 +70,7 @@ export default function Contact() {
                   <div className="w-6 h-6">
                     <img src={MapIcon} alt="Location Icon" />
                   </div>
-                  <p className="ml-2 text-lg lg:text-2xl text-zinc-900">
+                  <p className="ml-2 text-2xl font-normal lg:text-2xl text-zinc-900">
                     iugawsdiegaiu,adgy,Delhi
                   </p>
                 </div>
