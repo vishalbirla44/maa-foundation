@@ -39,11 +39,17 @@ export default function Contact() {
         <div className="flex flex-col lg:flex-row justify-between mt-10 lg:mt-20 mx-4 lg:mx-28">
           <div className="flex flex-wrap justify-center items-center w-full lg:w-1/2">
             <div className="w-full p-4">
+
               <div className="w-5/6">
                 <p className="text-lg lg:text-xl font-normal leading-9 text-zinc-900 mt-2">
                   <span className="text-lg lg:text-xl font-normal leading-9 text-red-600">
                     MAA FOUNDATION{" "}
                   </span>
+              <div>
+                <p className="text-2xl font-normal leading-9 text-zinc-900 mt-[-6.5rem]">
+                  <span className="text-2xl font-normal leading-9 text-red-600">
+                  MAA FOUNDATION  </span>
+
                   has been working in India for over 70 years, for the
                   upliftment of marginalised women and girls through 53
                   programmes in 18 states and 130+ districts.
