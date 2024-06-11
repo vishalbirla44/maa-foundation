@@ -40,7 +40,7 @@ export default function Contact() {
           <div className="flex flex-wrap justify-center items-center w-full lg:w-1/2">
             <div className="w-full p-4">
               <div>
-                <p className="text-2xl font-normal leading-9 text-zinc-900 mt-2">
+                <p className="text-2xl font-normal leading-9 text-zinc-900 mt-[-6.5rem]">
                   <span className="text-2xl font-normal leading-9 text-red-600">
                   MAA FOUNDATION  </span>
                   has been working in India for over 70 years, for the
